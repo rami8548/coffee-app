@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "131083712954",
+    "project_id": "newsocial-6dcbf",
+    "storage_bucket": "newsocial-6dcbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131083712954:android:03516b636f76f7b8fd4583",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd5dtD6RnIH5M7klhi4kdSS33he4I667M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
